@@ -34,3 +34,7 @@ nav a {
   font-family: "Georgia", serif;
   font-size: 1.125rem
 }
+
+nav a:hover {
+  background-color: #cc1465;
+}
