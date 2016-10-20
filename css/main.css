@@ -30,9 +30,7 @@ header {
 
 body {
   margin: 0;
-  padding: .75em;
   border-style: none;
-  }
 }
 
 .nav ul {
@@ -76,8 +74,11 @@ p {
 
 .copy {
   background-color: #ffe500;
-  padding: .2em .5em .3em;
+  padding: 10px;
   text-align: center;
+  font-size: .75rem;
+  margin: 0;
+  border-style: none;
 }
 
 img {
