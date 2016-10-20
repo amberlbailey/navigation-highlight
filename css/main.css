@@ -11,6 +11,20 @@ h1 {
   font-family: 'Sigmar One', cursive;
   color: #b20953;
   text-align: center;
+  margin: 0;
+}
+
+header {
+  background-color: #ffe500;
+  padding: 10px;
+}
+
+body {
+  background-color: #ffe500;
+  margin: 0;
+  padding: .75em;
+  border-style: none;
+  }
 }
 
 nav ul {
