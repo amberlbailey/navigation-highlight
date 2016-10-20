@@ -76,7 +76,8 @@ p {
 
 .copy {
   background-color: #ffe500;
-  padding: .2em .5em .3em
+  padding: .2em .5em .3em;
+  text-align: center;
 }
 
 img {
