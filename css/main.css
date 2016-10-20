@@ -35,18 +35,18 @@ body {
   }
 }
 
-nav ul {
+.nav ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
   text-align: center;
 }
 
-nav li {
+.nav li {
   display: inline-block;
 }
 
-nav a {
+.nav a {
   padding: 10px;
   background-color: #b2a212;
   color: #fff;
@@ -56,7 +56,11 @@ nav a {
   font-size: 1.125rem
 }
 
-nav a:hover {
+.nav a:hover {
+  background-color: #cc1465;
+}
+
+.nav .current {
   background-color: #cc1465;
 }
 
@@ -77,8 +81,4 @@ p {
 
 img {
   width: 100%;
-}
-
-.nav .current {
-  background-color: #cc1465;
 }
