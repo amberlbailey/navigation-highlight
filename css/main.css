@@ -13,6 +13,10 @@ body {
   margin: 0;
 }
 
+header {
+  background-color: #ffe500;
+}
+
 h1 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
@@ -34,20 +38,12 @@ p {
   color: #2f2d13;
 }
 
-nav, footer {
-  background-color: #ffe500;
-}
-
-.nav ul {
-  padding: 0;
-  margin: 0;
+nav {
   text-align: center;
 }
 
-li {
+nav li {
   display: inline-block;
-  list-style-type: none;
-  text-align: center;
 }
 
 ul {
@@ -55,12 +51,10 @@ ul {
   margin: 0;
 }
 
-nav {
-  text-align: center;
-}
-
-.nav li {
+li {
   display: inline-block;
+  list-style-type: none;
+  text-align: center;
 }
 
 a {
@@ -99,6 +93,10 @@ div {
 
 img {
   width: 100%;
-  max-width: 25em;
+  max-width: 100%;
   display: block;
+}
+
+footer {
+  background-color: #ffe500;
 }
