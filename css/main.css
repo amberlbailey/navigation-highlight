@@ -34,9 +34,8 @@ p {
   color: #2f2d13;
 }
 
-header {
+nav, footer {
   background-color: #ffe500;
-  padding: 10px;
 }
 
 .nav ul {
