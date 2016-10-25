@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 h1 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
@@ -28,11 +32,6 @@ h2 {
 header {
   background-color: #ffe500;
   padding: 10px;
-}
-
-body {
-  margin: 0;
-  border-style: none;
 }
 
 .nav ul {
