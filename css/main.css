@@ -15,11 +15,11 @@ body {
 
 header {
   background-color: #ffe500;
-  padding-bottom: 4px;
+  padding-bottom: 10px;
 }
 
 h1 {
-  font-family: "Sigmar One", cursive;
+  font-family: "Sigmar One", sans-serif;
   color: #b20953;
   text-align: center;
   margin: 0;
@@ -28,7 +28,7 @@ h1 {
 }
 
 h2 {
-  font-family: "Sigmar One", cursive;
+  font-family: "Sigmar One", sans-serif;
   color: #b20953;
   font-size: 1.875rem;
   margin: 10px;
@@ -86,11 +86,11 @@ div {
   margin: .3em;
 }
 
-.copy {
+footer {
   background-color: #ffe500;
   padding: 10px;
   text-align: center;
-  font-size: .75rem;
+  font-size: .9rem;
   margin: 0;
   border-style: none;
 }
@@ -103,5 +103,9 @@ img {
 
 footer {
   background-color: #ffe500;
-  padding: 3.5px;
+  padding: 12px;
+}
+
+main {
+  padding-bottom: 8px;
 }
